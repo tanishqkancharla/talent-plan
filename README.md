@@ -1,3 +1,5 @@
+NOTE: This is a fork by Tanishq Kancharla containing his solutions and work on the Practical Networked Applications course.
+
 # Welcome to learn Talent Plan Courses!
 
 ![Talent Plan Logo](media/talent-plan-logo.png)
@@ -12,7 +14,7 @@ Talent Plan is an open source training program initiated by PingCAP. It aims to 
 
 ### Series 1: Open Source Collaboration
 
-Open source collaboration includes a series of open-source related learning materials to help  enthusiasts gain basic knowledge of what open source software is, the differences between existing open-source software licenses, how to participate in open source projects, and what a welcoming open source community looks like. 
+Open source collaboration includes a series of open-source related learning materials to help  enthusiasts gain basic knowledge of what open source software is, the differences between existing open-source software licenses, how to participate in open source projects, and what a welcoming open source community looks like.
 
 Courses include:
 
@@ -30,16 +32,16 @@ Courses include:
 
 - [TP 202: Distributed Systems in Rust](courses/dss/README.md). Adapted from the [MIT 6.824](http://nil.csail.mit.edu/6.824/2017/index.html) distributed systems coursework, this course focuses on implementing important distributed algorithms, including the [Raft](https://raft.github.io/) consensus algorithm, and the [Percolator](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36726.pdf) distributed transaction protocol.
 
-### Series 3: Distributed Database 
+### Series 3: Distributed Database
 
 This series provides information on TinySQL and TinyKV, which are distributed databases in Go.
 
 Courses include:
 
 - [TP 301: TinySQL, a distributed relational database in Go](https://github.com/pingcap-incubator/tinysql)
-- [TP 302: TinyKV, a distributed key value database in Go](https://github.com/pingcap-incubator/tinykv) 
+- [TP 302: TinyKV, a distributed key value database in Go](https://github.com/pingcap-incubator/tinykv)
 
-### Series 4: Deep Dive into TiDB Ecosystems 
+### Series 4: Deep Dive into TiDB Ecosystems
 
 This series provides information on TiDB and TiKV, which are distributed databases developed by PingCAP.
 
@@ -53,7 +55,7 @@ See [Courses](courses/README.md) for more details.
 
 # Contributing to talent plan
 
-Contributions of any kind are welcome! Check out the [Contributing Guide](CONTRIBUTING.md) in this repository for more information on how you can contribute to Talent Plan. 
+Contributions of any kind are welcome! Check out the [Contributing Guide](CONTRIBUTING.md) in this repository for more information on how you can contribute to Talent Plan.
 
 We love our community and take great care to ensure it is fun, safe and rewarding. Please review our [Code of Conduct](/CODE_OF_CONDUCT.md) for community expectations and guidelines for reporting concerns.
 
